@@ -3,14 +3,14 @@
 It was a part of a mini-project that the Electronics and Robotics club conducted during the freshmen year of BITS Pilani Goa campus as an introduction to path planning, with the seniors of the club as mentors.
 2. Neural Networks -We were tasked to implement neural networks from scratch without using any frameworks like Pytorch or Tensorflow and train a network to give an XOR function output.
    
-XOR Function
+# XOR Function
 
-  X Y  |(X xor Y)
-  ------------------
-  0 0    |   0
-  
-  0 1    |   1
-  
-  1 0    |   1
-  
-  1 1    |   0
+The XOR (exclusive OR) operation returns `1` if the inputs are different, and `0` if the inputs are the same.
+
+| X | Y | X ⊕ Y |
+|---|---|-------|
+| 0 | 0 |   0   |
+| 0 | 1 |   1   |
+| 1 | 0 |   1   |
+| 1 | 1 |   0   |
+
