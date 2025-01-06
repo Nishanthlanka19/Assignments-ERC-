@@ -5,12 +5,12 @@ It was a part of a mini-project that the Electronics and Robotics club conducted
    
 XOR Function
 
-  X Y  X xor Y
+  X Y  |(X xor Y)
+  ------------------
+  0 0    |   0
   
-  0 0       0
+  0 1    |   1
   
-  0 1       1
+  1 0    |   1
   
-  1 0       1
-  
-  1 1       0
+  1 1    |   0
